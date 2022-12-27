@@ -9,3 +9,5 @@ The notebook is structured to mirror a typical modeling workflow:
 4. Train a baseline CNN model
 5. Visually assess the model
 6. Tune a pretrained model
+
+The whole project is coded in ``portland.ipynb``.
